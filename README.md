@@ -12,10 +12,10 @@ Leonardo is a Golang developer and passionate student of technology, he has year
 * 🧠  I'm learning Clean Code
 
 ### Skills
-
-
+          
 <p align="left">
-<img align="center" alt="Leonardo-Golang" height="80" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">
+  <img align="center" alt="Leonardo-Golang" height="80" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">
+  <img align="center" alt="Leonardo-Node" height="80" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg">
   <img align="center" alt="Leonardo-Postgres" height="80" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Leonardo-Mongo" height="80" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
   <img align="center" alt="Leonardo-Redis" height="80" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" />
