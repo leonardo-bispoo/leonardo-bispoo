@@ -11,6 +11,6 @@ Sobre mim
 
 Contatos
 ------------------
-* 🌍  Vivo em Batalha, Brasil
+* 🌍  Vivo em Batalha/AL - Brasil
 * ✉️  Me contate em [leonardobispo.dev@gmail.com](mailto:leonardobispo.dev@gmail.com)
 * 🗪 Meu Linkedin: [Leonardo de Farias Bispo](https://www.linkedin.com/in/leonardo-farias-bispo/)
